@@ -11,3 +11,7 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+## Create Repo to store docker Image
+    - URI: 570240744118.dkr.ecr.ap-south-1.amazonaws.com/chicken
